@@ -12,6 +12,6 @@
 	</properties>
 	<modules>
 		<module>app</module>
-		<module>onboard-locations</module>
+		<module>okr</module>
 	</modules>
 </project>

@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.b2</groupId>
-	<artifactId>onboard-locations</artifactId>
+	<artifactId>okr</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app</name>
 	<description>add locator spring boot microservices application</description>
